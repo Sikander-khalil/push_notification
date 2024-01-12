@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826250021714",
+    "project_id": "usernotify-fa189",
+    "storage_bucket": "usernotify-fa189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826250021714:android:f96ef3703aac8fcde5488b",
+        "android_client_info": {
+          "package_name": "com.example.users_notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnxUO_qCokKFhX-uPYOdsF1hG5uNKBf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
